@@ -1,11 +1,10 @@
 Miembros:
 
+Andrés Ruiz Sánchez.
 
 Javier Molina Colmenero
 
-Nicoló Melley
-
-Andrés Ruiz Sánchez
+Barbara Parzonka
 
 Mario Cortés Herrera
 
@@ -16,3 +15,5 @@ Ignacio Cobos Navarro
 Jose Canto Peral
 
 Jaime Nevado Farfán
+
+Nicolo Melley
