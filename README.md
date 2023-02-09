@@ -1,5 +1,5 @@
 Miembros:
-
+Pan 
 
 Javier Molina Colmenero
 
@@ -7,7 +7,7 @@ Nicoló Melley
 
 Andrés Ruiz Sánchez
 
-Mario Cortés Herrera
+Mario Cortés Herrera xddddddddddddd
 
 Barbara Parzonka
 
