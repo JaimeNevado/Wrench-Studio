@@ -13,6 +13,6 @@ Barbara Parzonka
 
 Ignacio Cobos Navarro
 
-Jose Canto Peral
+José Canto Peral
 
 Jaime Nevado Farfán
