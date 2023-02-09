@@ -13,3 +13,5 @@ Mario Cortés Herrera
 Barbara Parzonka
 
 Ignacio Cobos Navarro
+
+Jose Canto Peral
