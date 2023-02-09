@@ -1,6 +1,5 @@
 Miembros:
 
-Jaime Nevado Farfán
 
 Javier Molina Colmenero
 
@@ -15,3 +14,5 @@ Barbara Parzonka
 Ignacio Cobos Navarro
 
 Jose Canto Peral
+
+Jaime Nevado Farfán
