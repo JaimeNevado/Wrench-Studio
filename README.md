@@ -1,11 +1,14 @@
 Miembros:
+<<<<<<< HEAD
+
+Andrés Ruiz Sánchez.
+=======
 Pan 
+>>>>>>> 32332bf948db8ff002e96eecc84cbe37e22f3450
 
 Javier Molina Colmenero
 
-Nicoló Melley
-
-Andrés Ruiz Sánchez
+Barbara Parzonka
 
 Mario Cortés Herrera xddddddddddddd
 
@@ -16,3 +19,5 @@ Ignacio Cobos Navarro
 Jose Canto Peral
 
 Jaime Nevado Farfán
+
+Nicolo Melley
