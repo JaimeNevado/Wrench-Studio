@@ -7,7 +7,7 @@ Javier Molina Colmenero
 
 Barbara Parzonka
 
-Mario Cortés Herrera xddddddddddddd
+Mario Cortés Herrera
 
 Barbara Parzonka
 
