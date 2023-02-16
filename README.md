@@ -1,20 +1,24 @@
 Miembros:
 
-
-Andrés Ruiz Sánchez.
-
-Javier Molina Colmenero
-
-Barbara Parzonka
-
-Mario Cortés Herrera
-
-Barbara Parzonka
+Jose Canto Peral
 
 Ignacio Cobos Navarro
 
-Jose Canto Peral
+Mario Cortés Herrera
+
+Nicoló Melley
+
+Javier Molina Colmenero
 
 Jaime Nevado Farfán
 
-Nicolo Melley
+Barbara Parzonka
+
+Andrés Ruiz Sánchez
+
+
+
+
+
+
+
