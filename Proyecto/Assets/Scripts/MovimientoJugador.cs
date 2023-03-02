@@ -5,7 +5,7 @@ using UnityEngine;
 public class MovimientoJugador : MonoBehaviour
 {
 
-   public float velocidad, moveX, moveY, lastDir;
+   public float velocidad, moveX, moveY, lastMoveX;
    public int direction;
    private Vector2 moveImput;
    private Rigidbody2D rigidbody;
@@ -17,7 +17,7 @@ public class MovimientoJugador : MonoBehaviour
         rigidbody = GetComponent<Rigidbody2D>();
         playerAnimator = GetComponent<Animator>();
         direction = 1;
-        lastDir = 0;
+        lastMoveX = 0;
     }
 
     private void Update()
@@ -28,8 +28,17 @@ public class MovimientoJugador : MonoBehaviour
         moveImput = new Vector2(moveX, moveY).normalized;
         
         //Dirección
-        if(moveX != 0) {lastDir = moveX;}
-        else { if(lastDir >= 0) {direction=1;} else {direction=-1;} }
+        if(moveX != 0) {
+            lastMoveX = moveX;
+        }
+        else { 
+            if(lastMoveX >= 0) {
+                direction=1;
+            } 
+            else {
+                direction=-1;
+            } 
+        }
 
         //Animacion del Movimiento
         playerAnimator.SetFloat("Horizontal", moveX);

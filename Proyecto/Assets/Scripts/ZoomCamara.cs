@@ -27,7 +27,7 @@ public class ZoomCamara : MonoBehaviour
         if (Input.GetAxis("Mouse ScrollWheel") > 0)
         {
             Tamano -= VelocidaddelZoom;
-            if(Tamano < 2f || Tamano > 7f) //Limite inferior
+            if(Tamano < 2f || Tamano > 3.5f) //Limite inferior
             {
                 Tamano = 2f;
             }
@@ -37,9 +37,9 @@ public class ZoomCamara : MonoBehaviour
         {
 
             Tamano += VelocidaddelZoom;
-            if (Tamano < 1 || Tamano > 5f) //Limite superiór
+            if (Tamano < 1 || Tamano > 3.5f) //Limite superiór
             {
-                Tamano = 5f;
+                Tamano = 3.5f;
             }
         }
         Camera.main.orthographicSize = Tamano;
